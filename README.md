@@ -6,11 +6,11 @@ Small-batch coffee roasters storefront built with [Astro](https://astro.build) v
 
 ## Stack
 
-| Tool | Why |
-|---|---|
-| [Astro v5](https://astro.build) | Zero-JS-by-default static site generation |
-| [Tailwind CSS v4](https://tailwindcss.com) | Utility-first CSS via Vite plugin |
-| [Bun](https://bun.sh) | Fast package manager & runtime |
+| Tool                                       | Why                                       |
+| ------------------------------------------ | ----------------------------------------- |
+| [Astro v5](https://astro.build)            | Zero-JS-by-default static site generation |
+| [Tailwind CSS v4](https://tailwindcss.com) | Utility-first CSS via Vite plugin         |
+| [Bun](https://bun.sh)                      | Fast package manager & runtime            |
 
 ---
 
@@ -57,11 +57,11 @@ bun run preview  # preview dist/ locally
 
 ## Palette
 
-| Token | Hex |
-|---|---|
-| Espresso | `#3C2A21` |
-| Cream | `#D5CEA3` |
-| Ember | `#E57C23` |
+| Token     | Hex       |
+| --------- | --------- |
+| Espresso  | `#3C2A21` |
+| Cream     | `#D5CEA3` |
+| Ember     | `#E57C23` |
 | Parchment | `#F5F0E8` |
 
 Typography: **Playfair Display** (headings, body) · **JetBrains Mono** (labels, UI)
