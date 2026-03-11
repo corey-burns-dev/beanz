@@ -64,7 +64,7 @@ bun run preview  # preview dist/ locally
 | Ember     | `#E57C23` |
 | Parchment | `#F5F0E8` |
 
-Typography: **Playfair Display** (headings, body) · **JetBrains Mono** (labels, UI)
+Typography: **Fraunces** (headings) · **Inter** (body) · **JetBrains Mono** (labels, UI)
 
 ---
 

@@ -6,7 +6,8 @@
   --color-ember: #e57c23;
   --color-parchment: #f5f0e8;
 
-  --font-serif: "Playfair Display", Georgia, serif;
+  --font-serif: "Fraunces", serif;
+  --font-sans: "Inter", system-ui, sans-serif;
   --font-mono: "JetBrains Mono", "Courier New", monospace;
 }
 
@@ -18,7 +19,7 @@
   body {
     background-color: var(--color-parchment);
     color: var(--color-espresso);
-    font-family: var(--font-serif);
+    font-family: var(--font-sans);
     -webkit-font-smoothing: antialiased;
   }
 
